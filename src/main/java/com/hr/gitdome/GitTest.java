@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("r1");
         System.out.println("r12 git4");
         System.out.println("master git4");
+        System.out.println("hot git4");
 
     }
 }
